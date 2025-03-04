@@ -1,4 +1,4 @@
-![Maintainer](https://img.shields.io/badge/Maintained%20By-Anvaya%20Cloud-brightgreen) [![Trivy GitHub Action Workflow](https://github.com/anvayacloud/trivy-action/actions/workflows/main.yaml/badge.svg)](https://github.com/anvayacloud/trivy-action/actions/workflows/main.yaml) [![Create Release](https://github.com/anvayacloud/trivy-action/actions/workflows/release.yaml/badge.svg)](https://github.com/anvayacloud/trivy-action/actions/workflows/release.yaml)
+![Maintainer](https://img.shields.io/badge/Maintained%20By-Ananta%20Cloud-brightgreen) [![Trivy GitHub Action Workflow](https://github.com/anvayacloud/trivy-action/actions/workflows/main.yaml/badge.svg)](https://github.com/anvayacloud/trivy-action/actions/workflows/main.yaml) [![Create Release](https://github.com/anvayacloud/trivy-action/actions/workflows/release.yaml/badge.svg)](https://github.com/anvayacloud/trivy-action/actions/workflows/release.yaml)
 
 # Introduction
 
